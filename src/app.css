@@ -1,0 +1,12 @@
+TextField
+{
+    -fx-background-color: rgb(255, 255, 255);
+}
+TextField:hover
+{
+    -fx-background-color: lightgray;
+}
+Button:hover
+{
+    -fx-background-color: lightgray;
+}
